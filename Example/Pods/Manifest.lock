@@ -1,0 +1,14 @@
+PODS:
+  - MKLabel (0.1.0)
+
+DEPENDENCIES:
+  - MKLabel (from `../`)
+
+EXTERNAL SOURCES:
+  MKLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MKLabel: ee8140761e3a59bd907836639af03621fd5accee
+
+COCOAPODS: 0.39.0

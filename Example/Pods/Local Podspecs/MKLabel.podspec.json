@@ -1,0 +1,23 @@
+{
+  "name": "MKLabel",
+  "version": "0.1.0",
+  "summary": "This pod is created only for learning purpose",
+  "description": "Blinking label created for education goals",
+  "homepage": "https://github.com/mohammad19991/MKLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mohammad Alatrash": "mohammad_19_91@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/mohammad19991/MKLabel.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/mkalatrash",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MKLabel/Classes/**/*"
+}
