@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MKLabel_Example' do
+  pod 'MKLabel', :path => '../'
+
+  target 'MKLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
