@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MKLabel
 
 [![CI Status](http://img.shields.io/travis/Mohammad Alatrash/MKLabel.svg?style=flat)](https://travis-ci.org/Mohammad Alatrash/MKLabel)
@@ -27,3 +28,6 @@ Mohammad Alatrash, mohammad_19_91@yahoo.com
 ## License
 
 MKLabel is available under the MIT license. See the LICENSE file for more info.
+=======
+# MKLabel
+>>>>>>> 2beabdb640b203ab5e1f23174910db52cd06e04b

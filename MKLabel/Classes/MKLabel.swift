@@ -8,7 +8,7 @@
 
 import UIKit
 
-public class MKBlinkingLabel: UILabel {
+public class MKLabel: UILabel {
 
     public func startBlinking() {
         let options : UIViewAnimationOptions = [.Repeat, .Autoreverse]

@@ -1,32 +1,15 @@
-#
-# Be sure to run `pod lib lint MKLabel.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
   s.name             = 'MKLabel'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MKLabel.'
+  s.summary          = 'This pod is created only for learning purpose'
 
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.description      = 'Blinking label created for education goals'
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
-
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/MKLabel'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/mohammad19991/MKLabel'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mohammad Alatrash' => 'mohammad_19_91@yahoo.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/MKLabel.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/mohammad19991/MKLabel.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/mkalatrash'
 
   s.ios.deployment_target = '8.0'
 
